@@ -1,7 +1,7 @@
 ---
 classes: wide
 title: " "
-excerpt: Using Spotipy to predict song popularity!
+excerpt: Scraping websites and building animated graphs!
 header:
   overlay_image: /assets/images/Header.jpg  
 ---
