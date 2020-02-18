@@ -512,18 +512,8 @@ anim.save('myanimation.gif', writer='imagemagick')
 ```
 
 
-![png](WoM%20Analysis_files/WoM%20Analysis_42_0.png)
+![png](WoM%20Analysis_files/myanimation.gif)
 
-
-
-```python
-Image('myanimation.gif')
-```
-
-
-
-
-    <IPython.core.display.Image object>
 
 
 
