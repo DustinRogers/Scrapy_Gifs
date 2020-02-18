@@ -5,8 +5,10 @@ excerpt: Using Spotipy to predict song popularity!
 header:
   overlay_image: /assets/images/Header.jpg  
 ---
+### Below is a project that I created in order to learn Scapy as well as Animated graphs in Python.
+![png](WoM%20Analysis_files/myanimation.gif)
 
-### Below is a Scrapy spider that I created to pull data from WorldoMeters.info. The first function pulls the country name and the link to that countries website. The second function loops through each countrys' website and takes infomation out a table on that site. The bottom 'yeild' function aggregates the infomation and I export that to a csv.
+### I started out by building a Scrapy Spider that pulls data from www.WorldoMeters.info. The first 'parse' function pulls the country name and the link to that country's individual website. The second 'parse' function loops through a table on that specific website and and appends the demographic information into a larger table. The bottom 'yeild' function aggregates the infomation and then exports that to a csv.
 
 
 ```python
